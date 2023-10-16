@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomRatingBar">
+        <item name="android:progressTint">@color/star_color</item>
+        <item name="android:secondaryProgressTint">@color/black</item>
+        <item name="android:progressBackgroundTint">@color/backsplash</item>
+    </style>
+
+</resources>
